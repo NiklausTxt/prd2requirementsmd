@@ -1,0 +1,5 @@
+# figma2req
+# 无第三方依赖，全部使用 Python 标准库 (>= 3.10)
+# 运行需要本地安装 Ollama 并拉取 VL 模型
+# 安装: https://ollama.com
+# 拉取模型: ollama pull qwen3-vl:8b
